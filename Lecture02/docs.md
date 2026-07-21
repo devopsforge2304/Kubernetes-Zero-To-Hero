@@ -89,7 +89,7 @@ kubectl apply -f deployment.yaml
 
 The request flows through the following pipeline:
 
-Lecture02/kubectl-request-path.png
+![Lecture02/kubectl-request-path.png](kubectl-request-path.png)
 
 The API Server normally listens on:
 
